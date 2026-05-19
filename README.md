@@ -79,7 +79,7 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 # Optional for Gemini:
-export GOOGLE_API_KEY="AIzaSyB0BwqFxR2H9iANMSR_EVXU9xQ7WAd9110"
+export GOOGLE_API_KEY=""
 
 # Build vector index
 python -m scripts.ingest
