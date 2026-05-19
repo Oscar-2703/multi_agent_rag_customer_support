@@ -54,6 +54,10 @@ The project uses the uploaded Kaggle-style support ticket file:
 
 `data/customer_support_tickets.csv`
 
+Which is a public dataset downloaded from:
+
+`https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset?utm_source=chatgpt.com`
+
 Important columns:
 
 - `Ticket ID`
